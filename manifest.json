@@ -1,0 +1,21 @@
+{
+    "name" : "My PWA",
+    "short_name" : "my App",
+    "start_url" : ".",
+    "background_color": "brown",
+    "theme_color": "#964B00",
+    "display" : "standalone",
+    "icons" : [
+
+        {
+            "src" : "image/logo64.png",
+            "sizes": "64x64",
+            "type" :"image/png"
+        },
+        {
+            "src" : "image/logo512.png",
+            "sizes": "512x512",
+            "type" :"image/png"
+        }
+    ]
+}

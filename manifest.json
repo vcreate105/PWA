@@ -2,8 +2,8 @@
     "name" : "My PWA",
     "short_name" : "my App",
     "start_url" : ".",
-    "background_color": "brown",
-    "theme_color": "#964B00",
+    "background_color": "#A020F0",
+    "theme_color": "  color:  #921555;",
     "display" : "standalone",
     "icons" : [
 
